@@ -1,0 +1,8 @@
+=============================================================================
+Project:   Sproutcore-horizontal-scroll
+Copyright: ©2010 My Company, Inc.
+=============================================================================
+
+SC.StaticContentView inside a ScrollView doesn't scroll horizontally if there is extra content to the right.
+
+quilmes is installed as a submodule in frameworks/, so you need to do "git submodule init" to set that up
